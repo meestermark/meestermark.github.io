@@ -26,7 +26,7 @@ p {
 	color: white;
 }
 #bloemenflitsen {
-	background-image: url('./bloem.jpg');
+	background-image: url('bloem.jpg');
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
